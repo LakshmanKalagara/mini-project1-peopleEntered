@@ -1,2 +1,3 @@
-# mini-project1-peopleEntered
+# mini-project1
+peopleEntered
 technologies-html/CSS/JS
